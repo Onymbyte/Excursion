@@ -8,4 +8,4 @@ All material and code developed from the Codecademy GitHub Pages tutorial.
 
 ### Redline doc
 
-![Redline Doc](excursion_redline.png)
+![Redline Doc](excursion_redline.webp)
